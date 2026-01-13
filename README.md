@@ -4,6 +4,7 @@ This repository contains the core analysis pipeline code consistently used acros
 ## License
 
 This project is licensed under the MIT License.
+
 **Note:**  
 This code is freely available for academic and research use.  
 Commercial use may require a separate license agreement.  
