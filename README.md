@@ -15,3 +15,16 @@ Main RNA-seq processing pipeline - trimming (Trim galore), alignment (STAR), qua
 
 ## Sequencing Mapping Results.py
 Parses STAR Log.final.out files to summarize mapping statistics (input reads, uniquely mapped reads, mapping rate)
+
+## RNAseq_survey_example.R
+Code for extracting and summarizing statistics from preprocessed RNA-seq data
+
+### sample_info_example.xlsx
+Sample organization example for running RNAseq_survey_example.R
+
+## data_analysis_code.R
+Performs DEG identification, Gene set enrichment analysis (GSEA), and CMap-based comparative transcriptomic analysis between RNA-seq data and public Connectivity Map (CMap) profiles.
+
+### RNAseq_results_example.Rdata
+### 20230719_Repurposing_Hub_export.txt
+Sample organization example for running data_analysis_code.R
